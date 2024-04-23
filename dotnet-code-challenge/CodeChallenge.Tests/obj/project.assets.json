@@ -4479,11 +4479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge.Tests\\CodeChallenge.Tests.Integration.csproj",
+      "projectUniqueName": "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge.Tests\\CodeChallenge.Tests.Integration.csproj",
       "projectName": "CodeChallenge.Tests.Integration",
-      "projectPath": "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge.Tests\\CodeChallenge.Tests.Integration.csproj",
+      "projectPath": "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge.Tests\\CodeChallenge.Tests.Integration.csproj",
       "packagesPath": "C:\\Users\\jmelrose\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge.Tests\\obj\\",
+      "outputPath": "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jmelrose\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4500,8 +4500,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj": {
-              "projectPath": "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj"
+            "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj": {
+              "projectPath": "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj"
             }
           }
         }

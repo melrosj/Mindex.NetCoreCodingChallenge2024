@@ -80,6 +80,7 @@ namespace CodeCodeChallenge.Tests.Integration
             // Arrange
             var employee = new Employee()
             {
+                EmployeeId = "12345",
                 Department = "Complaints",
                 FirstName = "Debbie",
                 LastName = "Downer",

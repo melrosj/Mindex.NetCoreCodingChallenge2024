@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj": {}
+    "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj": {
+    "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
         "projectName": "CodeChallenge",
-        "projectPath": "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
+        "projectPath": "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
         "packagesPath": "C:\\Users\\jmelrose\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge\\obj\\",
+        "outputPath": "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jmelrose\\AppData\\Roaming\\NuGet\\NuGet.Config",

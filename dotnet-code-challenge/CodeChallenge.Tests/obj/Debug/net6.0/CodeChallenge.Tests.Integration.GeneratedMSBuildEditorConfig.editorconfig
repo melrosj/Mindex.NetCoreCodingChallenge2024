@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CodeChallenge.Tests.Integration
-build_property.ProjectDir = C:\Users\jmelrose\Documents\Personal\Mindex coding challenge\dotnet-code-challenge-July2022\dotnet-code-challenge\CodeChallenge.Tests\
+build_property.ProjectDir = C:\Users\jmelrose\Transcat\Mindex.NetCoreCodingChallenge2024\dotnet-code-challenge\CodeChallenge.Tests\

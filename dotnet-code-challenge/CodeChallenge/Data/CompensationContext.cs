@@ -7,7 +7,6 @@ namespace CodeChallenge.Data
     {
         public CompensationContext(DbContextOptions<CompensationContext> options) : base(options)
         {
-
         }
 
         public DbSet<Compensation> Compensations { get; set; }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yIWVZXrZbX9fA6XyLcH2PLZcucM5GmpOsvZKMr2fKqpoJYlCX9E/WHKnkZuNaRq0cKDy3Ke8nLP80zt/5EyiPA==",
+  "dgSpecHash": "pDcGvTkQu6ken4pXf/lFggpDP8v3c+7IeDgCXkKNG/kUig+1n+xoc32WvNAntr3h+g6OVkI4vNfJA4W5lzUe+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jmelrose\\Documents\\Personal\\Mindex coding challenge\\dotnet-code-challenge-July2022\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
+  "projectFilePath": "C:\\Users\\jmelrose\\Transcat\\Mindex.NetCoreCodingChallenge2024\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jmelrose\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.5\\microsoft.aspnetcore.jsonpatch.6.0.5.nupkg.sha512",
     "C:\\Users\\jmelrose\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
